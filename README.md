@@ -1,2 +1,4 @@
-# thu
-test chương trình của tôi
+# Easycare
+
+Dự án đặt khám trực tuyến.
+
